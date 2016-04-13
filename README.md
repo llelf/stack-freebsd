@@ -1,0 +1,2 @@
+Haskell stack FreeBSD binaries
+
